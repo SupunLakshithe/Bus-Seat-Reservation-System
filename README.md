@@ -65,6 +65,8 @@ java Main
 
 The system provides a command-line interface with the following main options:
 
+![image](https://github.com/user-attachments/assets/104bd7a1-150c-4155-bc4b-935c89fc5103)
+
 1. **Manage Customers (Option 1)**
    - Add new customers
    - Update existing customer details
@@ -107,7 +109,7 @@ Feel free to fork the project and submit pull requests for any improvements.
 
 ## License
 
-This project is licensed under the MIT License - see the LICENSE file for details.
+This project is licensed under the MIT License.
 
 ## Contact
 
