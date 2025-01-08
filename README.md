@@ -113,6 +113,6 @@ This project is licensed under the MIT License.
 
 ## Contact
 
-Your Name - [slsomarathna47@gmail.com](mailto:slsomarathna47@gmail.com)
+Supun Lakshithe - [slsomarathna47@gmail.com](mailto:slsomarathna47@gmail.com)
 
 Project Link: [https://github.com/SupunLakshithe/bus-seat-reservation-system](https://github.com/SupunLakshithe/bus-seat-reservation-system)
